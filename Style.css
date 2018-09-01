@@ -1,0 +1,267 @@
+*
+{
+font-family: Century Gothic;
+}
+body
+{
+background-image: linear-gradient(90deg,#7474BF,#348A37);
+}
+#headerId
+{
+position : absolute;
+left:0px;
+top:0px;
+width:100%;
+background-color: white;
+}
+#headerDiv
+{
+position: relative;
+top: 23px;
+right: 100px;
+height: 80px;
+text-align: right; 
+}
+#headerButton
+{
+padding: 15px;
+font-size: 25px;
+font-weight: bold;
+}
+#headerButton:hover
+{
+border-radius: 20px;
+border: 2px solid black;
+background-color: white;
+}
+a
+{
+text-decoration: none;
+color: black;
+}
+#footerId
+{
+position : absolute;
+right:0px;
+bottom:0px;
+height:70px;
+width:100%;
+background-color: white;
+}
+#footerButton
+{
+font-weight: bold;
+position: relative;
+top: 4px;
+left: 25px;
+}
+#loginTableId
+{
+position: absolute;
+left: 25%;
+top: 35%;
+width: 50%;
+height: 25%;
+}
+tr
+{
+height: 5px;
+}
+th
+{
+letter-spacing: 2px;
+color: white;
+font-size: 35px;
+}
+::placeholder
+{
+word-spacing: 6px;
+letter-spacing: 2px;
+font-size: 15px;
+font-style: italic;
+text-align: center;
+}
+#logUser,#logPass,#fName,#lName,#regMail,#regPass
+{
+border-style: none;
+width: 300px;
+height: 50px;
+border-radius: 20px;
+}
+#logSubmit,#logReset,#regSubmit,#regReset
+{
+border-style: none;
+height: 45px;
+width: 100px;
+border-radius:20px;
+}
+value
+{
+font-weight: bolder;
+font-size: 50px;
+}
+#fText
+{
+opacity: 0.7;
+display: inline;
+position: absolute;
+left: 35%;
+top: 3%;
+font-size:100px;
+color: white;
+}
+#lText
+{
+opacity: 0.95;
+display: inline;
+position: absolute;
+left: 54%;
+top: 1.5%;
+font-size:120px;
+color: lightgreen;
+}
+h4
+{
+text-align: center;
+color: white;
+font-size: 60px;
+position: absolute;
+left: 32.5%;
+top: 20%;
+}
+h4:hover
+{
+position: absolute;
+left: 32%;
+top: 20%;
+font-size: 62.5px;
+transition: 0.12s;
+}
+p
+{
+letter-spacing:3px;
+word-spacing: 5px;
+text-align: center;
+color: white;
+font-size: 30px;
+position: absolute;
+left: 22%;
+top: 47%;
+}
+h3
+{
+font-style: italic;
+text-align: center;
+color: white;
+font-size: 80px;
+position: absolute;
+left: 35%;
+top: 3%;
+}
+h2
+{
+text-align: center;
+color: white;
+font-size: 45px;
+position: absolute;
+left: 5%;
+top: 40%;
+}
+ul
+{
+letter-spacing: 2px;
+text-align: left;
+color: white;
+font-size: 35px;
+position: absolute;
+left:10%;
+top: 40%;
+padding: 100px;
+}
+#locFrame
+{
+position: absolute;
+right: 200px;
+bottom: 120px;
+height: 500px;
+width: 850px;
+background-color: grey;
+}
+iframe
+{
+border-style: none;
+position: absolute;
+right: 50px;
+bottom: 50px;
+}
+h5
+{
+color: white;
+position: absolute;
+left: 380px;
+top: -30px;
+font-size: 25px;
+}
+#aboutPara
+{
+font-style: italic;
+letter-spacing:3px;
+word-spacing: 5px;
+text-align: center;
+color: white;
+font-size: 30px;
+position: absolute;
+left: 7%;
+top: 40%;
+}
+#special
+{
+font-size: 32px;
+font-weight: bolder;
+font-style: italic;
+}
+#iconImg
+{
+float: left;
+position: relative;
+left: 30px;
+top: 16px;
+height: 50px;
+width: 50px;
+}
+#headingText
+{
+color: #7474BF;
+font-size: 30px;
+font-weight: bold;
+float: left;
+position: relative;
+left: 40px;
+top: 22px;
+}
+#lastText
+{
+font-weight: bold;
+position: absolute;
+right: 30px;
+bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
